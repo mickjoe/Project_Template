@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="historyscore_tb">10dp</dimen>
+    <!-- left_menu -->
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">120dp</dimen>
+    <!-- left_menu -->
+    <dimen name="d_10">10dp</dimen>
+    <dimen name="d_5">5dp</dimen>
+    <dimen name="d_20">20dp</dimen>
+    <dimen name="d_30">30dp</dimen>
+    <dimen name="d_40">40dp</dimen>
+    <dimen name="d_80">80dp</dimen>
+    <dimen name="d_160">160dp</dimen>
+    <dimen name="d_1">1dp</dimen>
+    <!-- 刷新start -->
+    <dimen name="drop_down_list_header_padding_top">12dp</dimen>
+    <dimen name="drop_down_list_header_padding_bottom">15dp</dimen>
+    <dimen name="drop_down_list_header_release_min_distance">20dp</dimen>
+    <dimen name="drop_down_list_header_progress_bar_height">20dp</dimen>
+    <dimen name="drop_down_list_footer_progress_bar_height">20dp</dimen>
+
+</resources>
