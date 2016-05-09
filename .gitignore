@@ -6,3 +6,11 @@
 .DS_Store
 /build
 /captures
+/gradle
+.idea
+gradle.properties
+gradlew.bat
+local.properties
+Project_Template.iml
+pcauto.iml
+gradlew
